@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kechaev
 - 👀 I’m interested in Software Engineering and Web Design
 - 🌱 I’m currently learning C# at my A-Level Course in the UK
+- 🏢 Working as a Mathematics Tutor
 - 💞️ I’m looking to collaborate on ____
 - 📫 How to reach me VKechaevv@gmail.com
 - 😄 Pronouns: He/Him
